@@ -46,3 +46,4 @@ LazyData: true
 ByteCompile: TRUE
 URL: https://github.com/ebimodeling/biocro
 Config/testthat/edition: 3
+RoxygenNote: 7.2.3
