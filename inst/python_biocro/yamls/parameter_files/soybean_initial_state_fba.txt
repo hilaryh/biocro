@@ -1,0 +1,2 @@
+Leaf	Stem	Root	Grain	Shell	LeafLitter	RootLitter	StemLitter	soil_water_content	cws1	cws2	DVI	TTc	Rhizome	RhizomeLitter
+0.06312	0.00789	0.00789	1e-05	1e-05	0	0	0	0.32	0.32	0.32	-1	0	1e-07	0
